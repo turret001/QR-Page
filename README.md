@@ -14,8 +14,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+This is a QR display page, there's not much to say about it.
 
 ### Screenshot
+
+![image](https://user-images.githubusercontent.com/24281147/169358759-2d8ad38d-0701-4722-871f-d1d488a5b52f.png)
 
 
 ### Links
@@ -31,8 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-
 
 ### Useful resources
 
