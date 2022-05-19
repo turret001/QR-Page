@@ -23,8 +23,8 @@ This is a QR display page, there's not much to say about it.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [@frontendmentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-RpYFcLp08g)
+- Live Site URL: [@canakcan.me](https://canakcan.me/QR-Page/)
 
 ## My process
 
